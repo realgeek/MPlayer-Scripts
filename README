@@ -1,0 +1,12 @@
+MPlayer Scripts
+
+This will serve as a handy set of scripts I use for working with MPlayer.
+
+* TwoPlayer
+    Start two videos side-by-side simultaneously. I use this primarily to 
+	compare the quality of two similar encodings of the same video.
+
+
+This software is copyright (C) 2011 by Charlie Herron and is licensed MIT/X. 
+See the file COPYING for more information.
+
